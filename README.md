@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Java || SQLite**
 - 👨‍💻 All of my projects are available at [Kassandra's Github](https://github.com/kassandragillmore91)
 - 📫 How to reach me: **kassandragillmore@gmail.com**
-- 😄 Pronouns: she/her
+- 😄 Pronouns: **she/her**
 - ⚡ Fun fact: **I love crafting, quilting, crocheting, etc., reading and listening to music**
 
 <h3 align="left">Connect with me:</h3>
