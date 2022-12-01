@@ -1,5 +1,5 @@
 <h1 align=center> Hi there!~ </h1>
-<h3 align=center> Student at BloomTech || Backend Developer </h3>
+<h3 align=center> Associate Software Engineer at Sonatype </h3>
 
 - 🔭 I’m currently working on [Chatbot](https://github.com/kassandragillmore91/Chatbot)
 - 🌱 I’m currently learning **Java || SQLite**
